@@ -1,6 +1,7 @@
 ABSTRACT
 
 This overview looks at virtual mouse technology, which uses techniques like gesture recognition to replace conventional physical mice with digital counterparts. With a more flexible and intuitive input technique, virtual mice seek to improve accessibility and user interaction. This introduction goes over the fundamentals of virtual mice, examines some of the present applications, and talks about their possibilities in the future. Accuracy, timeliness, and software integration are emphasized, underscoring the technology's ability to change user interfaces and enhance digital accessibility.
+Working Model: ![image](https://github.com/user-attachments/assets/c1503117-381d-4056-bbd6-807869af9878)
 
 INTRODUCTION 
 
@@ -14,3 +15,5 @@ The key objectives of the project are:
 1. Gesture Recognition: Building a system that can decode hand movements or gestures to move the cursor, click, and scroll.
 2. Hands-Free Control: A means of reducing the dependence on physical input devices, which are convenient in many settings.
 3. Accessibility: It is a solution for users with mobility impairments who can operate computers better.
+
+Working: ![image](https://github.com/user-attachments/assets/95f6bc39-a816-463f-a394-5cdaf80e0a06)
